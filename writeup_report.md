@@ -49,7 +49,7 @@ My model consists of a series of:
 - a flattening layer
 - a series of dense layers with dropout
 
-A RELU activation is used throughou.
+A RELU activation is used throughout.
 
 
 #### 2. Attempts to reduce overfitting in the model
